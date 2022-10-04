@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Open+Sans:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+
+body {
+    font-size: 100%;
+    background: rgba(7, 7, 7, 0.87);
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 150px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.zed {
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img {
+    margin-right: 1000px;
+
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+h2{
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+}
+
+p {
+    font-size: 24px;
+
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+h3{
+    list-style-type: none;
+    font-family: 'Kanit', sans-serif;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.ola {
+    list-style-type: none;
+    font-family: 'Kanit', sans-serif;
+    color:white
+}
+
+.welcome {
+    list-style-type: none;
+    font-family: 'Kanit', sans-serif;
+    color:white
+}
+
+.par {
+    list-style-type: none;
+    font-family: 'Kanit', sans-serif;
+    color: rgba(172, 172, 172, 1);
+}
+
+.planozed {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+    color:white;
+    padding: 3px;
+}
+
+.user {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    list-style-type: none;
+    font-family: 'Kanit', sans-serif;
+    color: rgba(172, 172, 172, 1);
+    padding: 3px;
+}
+
+.subotal {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    list-style-type: none;
+    font-family: 'Kanit', sans-serif;
+    color: rgba(172, 172, 172, 1);
+    padding: 8px;
+}
+
+.iva {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    font-family: 'Kanit', sans-serif;
+    color: rgba(172, 172, 172, 1);
+    border-top: 1px solid;
+    padding: 8px;
+}
+
+.total {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+    border-top: 1px solid;
+    padding: 8px;
+    
+}
+
+.zedpremium {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.box {
+    width: 651px;
+    height: 287px;
+    left: 67px;
+    top: 413px;
+    background: rgba(57, 57, 57, 0.74);
+     margin: 0 auto;
+}
+
+.border-radius {
+    border-radius: 50px;
+}  
+
+.box {
+    width: 146px;
+    height: 173px;
+    left: 506px;
+    top: 462px;
+    background: #4A4A4A;
+    margin: 0 auto;
+}
